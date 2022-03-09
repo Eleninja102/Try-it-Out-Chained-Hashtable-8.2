@@ -25,6 +25,8 @@
 /* Begin PBXFileReference section */
 		1D8397A727D85D2100E2EC30 /* Try it Out: Chained Hashtable 8.2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Try it Out: Chained Hashtable 8.2"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1D8397AA27D85D2100E2EC30 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		1D8397B127D85D4D00E2EC30 /* ChainedHashtable.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ChainedHashtable.h; sourceTree = "<group>"; };
+		1D8397B227D8634A00E2EC30 /* 08 Hashtables.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "08 Hashtables.pdf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +44,7 @@
 			isa = PBXGroup;
 			children = (
 				1D8397A927D85D2100E2EC30 /* Try it Out: Chained Hashtable 8.2 */,
+				1D8397B227D8634A00E2EC30 /* 08 Hashtables.pdf */,
 				1D8397A827D85D2100E2EC30 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -58,6 +61,7 @@
 			isa = PBXGroup;
 			children = (
 				1D8397AA27D85D2100E2EC30 /* main.cpp */,
+				1D8397B127D85D4D00E2EC30 /* ChainedHashtable.h */,
 			);
 			path = "Try it Out: Chained Hashtable 8.2";
 			sourceTree = "<group>";
